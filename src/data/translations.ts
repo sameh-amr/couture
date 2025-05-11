@@ -14,8 +14,8 @@ export const translations: TranslationType = {
     ar: 'فساتين سماح حمدي كوتور'
   },
   heroSubheading: {
-    en: 'Handcrafted with love in Egypt',
-    ar: 'مصنوعة يدويًا بحب في مصر'
+    en: 'Handcrafted with love ',
+    ar: 'مصنوعة يدويًا بحب'
   },
   exploreButton: {
     en: 'Explore Designs',
